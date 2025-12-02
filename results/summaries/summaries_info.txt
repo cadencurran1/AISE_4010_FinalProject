@@ -1,0 +1,8 @@
+This folder contains all model summaries used during this project.
+
+All models have 3 types, a baseline, a keras-tuned and a grid-search model.
+
+These models were used and compared to one another to find the best overall model for 
+our dataset.
+
+You can see the overall results in results/comparisons/
