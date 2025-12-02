@@ -1,0 +1,7 @@
+inside this folder contains all graphs that were created through our process with this project.
+
+These include:
+- Preprocessing Graphs
+- ADF test, ACF and PACF
+- Training vs. Validation Loss for each model
+- Testing Graphs for each model
