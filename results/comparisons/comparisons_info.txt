@@ -1,0 +1,3 @@
+This folder contains csv files for the following:
+- Base Model vs. Keras Tuned Model vs. Grid-Search Model (for same model type)
+- Overall Comparison of the best models to see which is the best overall model
